@@ -12,7 +12,7 @@
         <IsA>app:web</IsA>
         <Summary>Common CA certificates</Summary>
         <Description>Common CA certificates</Description>
-        <Archive sha1sum="4525a194736c6691dbd59fa87281b722837b4768" type="tarxz">http://ftp.debian.org/debian/pool/main/c/ca-certificates/ca-certificates_20160104.tar.xz</Archive>
+        <Archive sha1sum="4525a194736c6691dbd59fa87281b722837b4768" type="tarxz">https://launchpad.net/ubuntu/+archive/primary/+files/ca-certificates_20160104.tar.xz</Archive>
     </Source>
 
     <Package>
