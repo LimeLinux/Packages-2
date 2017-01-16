@@ -12,7 +12,7 @@ def setup():
     autotools.configure("--prefix=/usr --sysconfdir=/etc --localstatedir=/var \
                          --disable-static --enable-experimental --enable-gtk-doc \
                          --with-package-name='GStreamer VAAPI Plugins (Pisi Linux)' \
-                         --with-package-origin='http://www.pisilinux.org/' \
+                         --with-package-origin='http://www.limelinux.org/' \
                          --with-gtk=3.0")
 
     pisitools.dosed("libtool", " -shared ", " -Wl,-O1,--as-needed -shared ")

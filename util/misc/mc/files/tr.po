@@ -2,14 +2,14 @@
 # Copyright (C) 2013 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
 #
-# Yusuf Aydemir <yusuf.aydemir@pisilinux.org>, 2013.
+# Yusuf Aydemir <yusuf.aydemir@limelinux.org>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: mc 4.8.8\n"
 "Report-Msgid-Bugs-To: http://www.midnight-commander.org/\n"
 "POT-Creation-Date: 2013-11-29 21:46+0300\n"
 "PO-Revision-Date: 2013-08-04 22:44+0300\n"
-"Last-Translator: Yusuf Aydemir <yusuf.aydemir@pisilinux.org>\n"
+"Last-Translator: Yusuf Aydemir <yusuf.aydemir@limelinux.org>\n"
 "Language-Team: Turkish <kde-i18n-tr@kde.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"

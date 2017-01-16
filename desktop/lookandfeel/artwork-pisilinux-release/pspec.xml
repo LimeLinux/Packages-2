@@ -3,8 +3,8 @@
 <!DOCTYPE PISI SYSTEM "www.limelinux.com/standard/pisi-spec.dtd">
 <PISI>
     <Source>
-        <Name>artwork-pisilinux-release</Name>
-        <Homepage>http://www.pisilinux.org/</Homepage>
+        <Name>artwork-limelinux-release</Name>
+        <Homepage>http://www.limelinux.org/</Homepage>
         <Packager>
             <Name>Lime GNU/LINUX Community</Name>
             <Email>admin@limelinux.com</Email>
@@ -17,12 +17,12 @@
         <IsA>data</IsA>
         <Summary>Artwork for Pisi Linux releases</Summary>
         <Description>This package contains additional artwork (like wallpapers) intended for Pisi Linux releases.</Description>
-        <Archive sha1sum="8956f17212e10dc7d3d4513c9f7c144e2b3cd621" type="tarxz">http://source.pisilinux.org/1.0/artwork-pisilinux-release-1.2.tar.xz</Archive>
-        <Archive sha1sum="7d1de4a52a0a11ba18277277679902263f6fc736" type="tarxz">http://source.pisilinux.org/1.0/sample-files-20130323.tar.xz</Archive>
+        <Archive sha1sum="8956f17212e10dc7d3d4513c9f7c144e2b3cd621" type="tarxz">http://source.limelinux.org/1.0/artwork-limelinux-release-1.2.tar.xz</Archive>
+        <Archive sha1sum="7d1de4a52a0a11ba18277277679902263f6fc736" type="tarxz">http://source.limelinux.org/1.0/sample-files-20130323.tar.xz</Archive>
     </Source>
 
     <Package>
-        <Name>artwork-pisilinux-release</Name>
+        <Name>artwork-limelinux-release</Name>
         <Files>
             <Path fileType="data" permanent="true">/usr/share/wallpapers</Path>
         </Files>

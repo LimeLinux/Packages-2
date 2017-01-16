@@ -14,7 +14,7 @@
         <BuildDependencies>
             <Dependency>wireless-tools-devel</Dependency>
         </BuildDependencies>
-        <Archive sha1sum="e09271ba00b4a58254a60a26a850b41c583cc541" type="targz">http://sourceforge.net/projects/pisilinux/files/source/libwlocate-code-213bcf6fb073d968af5e849a5c1828603f69e5ac.tar.gz</Archive>
+        <Archive sha1sum="e09271ba00b4a58254a60a26a850b41c583cc541" type="targz">http://sourceforge.net/projects/limelinux/files/source/libwlocate-code-213bcf6fb073d968af5e849a5c1828603f69e5ac.tar.gz</Archive>
     </Source>
     
     <Package>

@@ -23,12 +23,12 @@
 -     "description": "GitHub Issue Tracker for QupZilla",
 -     "keyword": "qz-issues",
 -     "name": "QupZilla Issues",
-+     "description": "Pisilinux Homepage",
-+     "keyword": "Pisilinux",
-+     "name": "Pisilinux",
++     "description": "limelinux Homepage",
++     "keyword": "limelinux",
++     "name": "limelinux",
       "type": "url",
 -     "url": "https://github.com/QupZilla/qupzilla/issues",
-+     "url": "http://www.pisilinux.org",
++     "url": "http://www.limelinux.org",
       "visit_count": 0
      },
      {

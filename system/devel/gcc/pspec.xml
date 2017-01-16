@@ -35,10 +35,10 @@
             <Dependency>elfutils</Dependency>
         </BuildDependencies>
         <Patches>
-            <!-- Pisilinux Patches -->
+            <!-- limelinux Patches -->
             <!-- Fix paths in 64bit -->
-            <Patch level="1">pisilinux/64.patch</Patch>
-            <Patch level="1">pisilinux/gcc_47_based-record_gcc_options.patch</Patch>
+            <Patch level="1">limelinux/64.patch</Patch>
+            <Patch level="1">limelinux/gcc_47_based-record_gcc_options.patch</Patch>
         </Patches>
     </Source>
 

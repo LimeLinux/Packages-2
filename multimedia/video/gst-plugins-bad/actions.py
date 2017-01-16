@@ -22,8 +22,8 @@ def setup():
                          --disable-examples \
                          --disable-gtk-doc \
                          --disable-rpath \
-                         --with-package-name='PisiLinux gstreamer-plugins-bad package' \
-                         --with-package-origin='http://www.pisilinux.org' \
+                         --with-package-name='limelinux gstreamer-plugins-bad package' \
+                         --with-package-origin='http://www.limelinux.org' \
                          --disable-experimental \
                          --disable-assrender")
 

@@ -12,8 +12,8 @@ def setup():
     #autotools.autoreconf("-vfi")
     autotools.configure("--disable-static \
                          --with-libav-extra-configure='--enable-runtime-cpudetect' \
-                         --with-package-name='PisiLinux gst-libav package' \
-                         --with-package-origin='http://www.pisilinux.org'")
+                         --with-package-name='limelinux gst-libav package' \
+                         --with-package-origin='http://www.limelinux.org'")
 
     pisitools.dosed("libtool", " -shared ", " -Wl,-O1,--as-needed -shared ") 
 

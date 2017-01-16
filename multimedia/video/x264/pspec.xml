@@ -15,7 +15,7 @@
         <Summary>Open source H264/AVC encoder</Summary>
         <Description>x264 is a free library for encoding H264/AVC video streams.</Description>
         <!-- Archives come from http://download.videolan.org/pub/videolan/x264/snapshots/ -->
-        <Archive sha1sum="16d3302148b92a9f0e6254fec554e0c375ccce75" type="tarbz2">https://sourceforge.net/projects/pisilinux/files/source/last_stable_x264.tar.bz2</Archive>
+        <Archive sha1sum="16d3302148b92a9f0e6254fec554e0c375ccce75" type="tarbz2">https://sourceforge.net/projects/limelinux/files/source/last_stable_x264.tar.bz2</Archive>
         <BuildDependencies>
             <Dependency>yasm-devel</Dependency>
             <Dependency>l-smash-devel</Dependency>

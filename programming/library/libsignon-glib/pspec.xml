@@ -12,7 +12,7 @@
         <License>LGPLv2</License>
         <Summary>Authorization and authentication management for glib</Summary>
         <Description>libsignon-glib provides authorization and authentication management for GLib applications.</Description>
-        <Archive sha1sum="01ced2b2c0644e690a1ef7a22520c51382041eb6" type="targz">https://sourceforge.net/projects/pisilinux/files/source/libsignon-glib-1.13.tar.gz</Archive>
+        <Archive sha1sum="01ced2b2c0644e690a1ef7a22520c51382041eb6" type="targz">https://sourceforge.net/projects/limelinux/files/source/libsignon-glib-1.13.tar.gz</Archive>
         <BuildDependencies>
             <Dependency>glib2-devel</Dependency>
             <Dependency>gobject-introspection-devel</Dependency>

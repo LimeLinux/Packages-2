@@ -156,7 +156,7 @@
             <!--
             <AdditionalFile owner="root" permission="0755" target="/usr/lib/pm-utils/sleep.d/02PulseAudio">02PulseAudio</AdditionalFile>
             -->
-            <AdditionalFile owner="root" permission="0644" target="/etc/conf.d/pulseaudio">pisilinux/pulseaudio.sysconfig</AdditionalFile>
+            <AdditionalFile owner="root" permission="0644" target="/etc/conf.d/pulseaudio">limelinux/pulseaudio.sysconfig</AdditionalFile>
 
             <AdditionalFile owner="root" permission="0644" target="/usr/share/icons/hicolor/scalable/apps/pulseaudio.svg">mandriva/pulseaudio.svg</AdditionalFile>
             <AdditionalFile owner="root" permission="0644" target="/usr/share/icons/hicolor/scalable/devices/audio-backend-pulseaudio.svg">mandriva/pulseaudio.svg</AdditionalFile>

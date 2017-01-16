@@ -32,7 +32,7 @@
 /usr/lib/plymouth/text.so
 /usr/lib/plymouth/throbgress.so
 /usr/lib/plymouth/two-step.so
-/usr/share/pixmaps/plymouth-pisilinux.png
+/usr/share/pixmaps/plymouth-limelinux.png
 /usr/share/plymouth/plymouthd.defaults
 /usr/share/plymouth/themes/details/details.plymouth
 /usr/share/plymouth/themes/text/text.plymouth

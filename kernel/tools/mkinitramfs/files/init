@@ -291,7 +291,7 @@ mount_cdroot() {
 
     # for userspace applications
     REAL_ROOT_TYPE=`echo "${ROOT_DEVICE}" | sed -e 's/^\/newroot\/dev\///' | grep -qE '^sr[0-9]*|^hd[a-z]|^pcd[0-9]|^xvd*' && echo "optical" || echo "harddisk"`
-    echo "${REAL_ROOT_TYPE}" > /newroot/run/pisilinux/livemedia
+    echo "${REAL_ROOT_TYPE}" > /newroot/run/limelinux/livemedia
 
     # this is needed for yali
     MNTDIR=`grep \/mnt\/cdrom\  /proc/mounts|sed 's/\/newroot//g'`

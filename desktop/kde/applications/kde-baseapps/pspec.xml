@@ -13,7 +13,7 @@
         <IsA>library</IsA>
         <Summary>KDE-Baseapps: base applications from the official KDE release</Summary>
         <Description>Base application for KDE5 such as Dolphin, kfind, plasma-widget-folderview, konqueror etc.</Description>
-        <Archive sha1sum="95b8dac72d8cda04646fceb0011985fb694a70d7" type="tarxz">https://sourceforge.net/projects/pisilinux/files/source/kde-baseapps-16.08.2_20161026.tar.xz</Archive>
+        <Archive sha1sum="95b8dac72d8cda04646fceb0011985fb694a70d7" type="tarxz">https://sourceforge.net/projects/limelinux/files/source/kde-baseapps-16.08.2_20161026.tar.xz</Archive>
         <BuildDependencies>
             <Dependency>qt5-base-devel</Dependency>
             <Dependency>qt5-webengine-devel</Dependency>

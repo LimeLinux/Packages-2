@@ -70,7 +70,7 @@
             <Dependency>wayland-devel</Dependency>
         </BuildDependencies>
         <Patches>
-        <!-- Pisilinux Patches -->
+        <!-- limelinux Patches -->
             <Patch level="1">mkspecs.patch</Patch>
         </Patches>
     </Source>

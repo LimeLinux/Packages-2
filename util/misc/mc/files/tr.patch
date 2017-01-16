@@ -12,7 +12,7 @@ diff -Nuar a/po/tr.po b/po/tr.po
 -# Slava Zanko <slavazanko@gmail.com>, 2011
 +# Muhammet Kara <muhammetk@gmail.com>, 2014.
 +# Slava Zanko <slavazanko@gmail.com>, 2011.
-+# yusuf aydemir <yusuf.aydemir@pisilinux.org>, 2015.
++# yusuf aydemir <yusuf.aydemir@limelinux.org>, 2015.
  msgid ""
  msgstr ""
  "Project-Id-Version: Midnight Commander\n"
@@ -26,7 +26,7 @@ diff -Nuar a/po/tr.po b/po/tr.po
 +"POT-Creation-Date: 2015-02-17 15:19+0300\n"
 +"PO-Revision-Date: 2015-02-21 08:57+0200\n"
 +"Last-Translator: yusuf\n"
-+"Language-Team: Turkish <yusuf.aydemir@pisilinux.org>\n"
++"Language-Team: Turkish <yusuf.aydemir@limelinux.org>\n"
  "MIME-Version: 1.0\n"
  "Content-Type: text/plain; charset=UTF-8\n"
  "Content-Transfer-Encoding: 8bit\n"

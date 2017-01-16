@@ -49,8 +49,8 @@
         </BuildDependencies>
         <Patches>
             <Patch>scribus-standard-font-paths.patch</Patch>
-            <Patch>PisiLinux-default-font.patch</Patch>
-            <Patch>PisiLinux-correctly_link_to_libxml2.patch</Patch>
+            <Patch>limelinux-default-font.patch</Patch>
+            <Patch>limelinux-correctly_link_to_libxml2.patch</Patch>
             <!--<Patch>scribus-1.5.0-QObject.patch</Patch>-->
         </Patches>
     </Source>

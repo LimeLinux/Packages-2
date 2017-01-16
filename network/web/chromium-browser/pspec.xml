@@ -90,9 +90,9 @@
             <Patch level="1">chromium-52.0.2743.116-unset-madv_free.patch</Patch>
             <Patch level="1">chromium-widevine.patch</Patch>
             <Patch level="1">chromium-icu58.patch</Patch>
-            <Patch level="1">pisilinux/gfx_jpeg_codec.patch</Patch>
-            <Patch level="1">pisilinux/fix_build_with_newer_gcc.patch</Patch>
-            <Patch level="1">pisilinux/last_commit_position.patch</Patch>
+            <Patch level="1">limelinux/gfx_jpeg_codec.patch</Patch>
+            <Patch level="1">limelinux/fix_build_with_newer_gcc.patch</Patch>
+            <Patch level="1">limelinux/last_commit_position.patch</Patch>
         </Patches>
     </Source>
     <Package>

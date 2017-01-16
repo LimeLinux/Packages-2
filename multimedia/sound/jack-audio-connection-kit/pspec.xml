@@ -14,7 +14,7 @@
         <IsA>service</IsA>
         <Summary>A low-latency audio server</Summary>
         <Description>JACK is a low-latency audio server written for POSIX conformant operating systems. It can connect a number of different applications to an audio device, as well as allowing them to share audio between themselves.</Description>
-<!--         <Archive sha1sum="397a01bb94eb4b40f328329a9e6af13f53abaa89" type="targz">http://source.pisilinux.org/1.0/jack-1.9.9.5.tgz</Archive> -->
+<!--         <Archive sha1sum="397a01bb94eb4b40f328329a9e6af13f53abaa89" type="targz">http://source.limelinux.org/1.0/jack-1.9.9.5.tgz</Archive> -->
         <Archive sha1sum="1177655ae0fbbd8c2229b398a79724115a392941" type="tarbz2">https://dl.dropboxusercontent.com/u/28869550/jack-1.9.10.tar.bz2</Archive>
         
         <BuildDependencies>

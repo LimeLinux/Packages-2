@@ -47,7 +47,7 @@ def setup():
               --localstatedir=/var/lib/vim \
               --with-features=big \
               --disable-acl \
-              --with-compiledby=PisiLinux \
+              --with-compiledby=limelinux \
               --enable-gpm \
               --enable-acl \
               --enable-cscope \
@@ -55,7 +55,7 @@ def setup():
               --enable-perlinterp \
               --disable-luainterp \
               --with-x=no \
-              --with-modified-by=PisiLinux"
+              --with-modified-by=limelinux"
 
     if get.buildTYPE() == "gui":
         options += " --enable-gui=gtk2 \

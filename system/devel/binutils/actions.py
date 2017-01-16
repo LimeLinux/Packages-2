@@ -27,7 +27,7 @@ def setup():
                          --enable-gold \
                          --enable-plugins \
                          --with-pkgversion="Pisi Linux" \
-                         --with-bugurl=http://bugs.pisilinux.org/ \
+                         --with-bugurl=http://bugs.limelinux.org/ \
                          %s \
                          --with-pic \
                          --disable-nls \

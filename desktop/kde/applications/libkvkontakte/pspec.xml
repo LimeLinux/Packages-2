@@ -25,7 +25,7 @@
             <Dependency>qt5-webkit-devel</Dependency>
             <Dependency>kwidgetsaddons-devel</Dependency>
         </BuildDependencies>
-        <Archive sha1sum="43d1f92c4094dfac4f7400318d950c9f961b7893" type="targz">https://sourceforge.net/projects/pisilinux/files/source/libkvkontakte-5.0.0_20161106.tar.gz</Archive>
+        <Archive sha1sum="43d1f92c4094dfac4f7400318d950c9f961b7893" type="targz">https://sourceforge.net/projects/limelinux/files/source/libkvkontakte-5.0.0_20161106.tar.gz</Archive>
     </Source>
     <Package>
         <Name>libkvkontakte</Name>

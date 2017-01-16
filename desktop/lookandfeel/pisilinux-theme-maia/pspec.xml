@@ -1,26 +1,26 @@
 
 <PISI>
     <Source>
-        <Name>pisilinux-theme-maia</Name>
-        <Homepage>http://www.pisilinux.org/</Homepage>
+        <Name>limelinux-theme-maia</Name>
+        <Homepage>http://www.limelinux.org/</Homepage>
         <Packager>
             <Name>Lime GNU/LINUX Community</Name>
             <Email>admin@limelinux.com</Email>
         </Packager>
         <License>GPLv2</License>
         <IsA>app:gui</IsA>
-        <Summary>PisiLinux için görsel çalışmaları.</Summary>
-        <Description>PisiLinux için simge seti, şifre ekranı, açılış ekranı ve kilit ekranı.</Description>
+        <Summary>limelinux için görsel çalışmaları.</Summary>
+        <Description>limelinux için simge seti, şifre ekranı, açılış ekranı ve kilit ekranı.</Description>
         <BuildDependencies>
             <Dependency>extra-cmake-modules</Dependency>
             <Dependency>qt5-base-devel</Dependency>
             <Dependency>plasma-framework-devel</Dependency>
         </BuildDependencies>
-        <Archive sha1sum="c156875ad7e914d26ef120ae1fd348b3c5e558fe" type="targz">https://github.com/alihanozturk/pisilinux-theme-maia/archive/0.3.tar.gz</Archive>
+        <Archive sha1sum="c156875ad7e914d26ef120ae1fd348b3c5e558fe" type="targz">https://github.com/alihanozturk/limelinux-theme-maia/archive/0.3.tar.gz</Archive>
     </Source>
     <Package>
-        <Name>pisilinux-theme-maia</Name>
-        <Summary>PisiLinux için görsel çalışmaları.</Summary>
+        <Name>limelinux-theme-maia</Name>
+        <Summary>limelinux için görsel çalışmaları.</Summary>
         <Files>
             <Path fileType="data">/usr/share</Path>
             <Path fileType="data">/usr/share/color-schemes</Path>

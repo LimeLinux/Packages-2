@@ -13,7 +13,7 @@
         <IsA>app:console</IsA>
         <Summary>Userspace utilities for btrfs</Summary>
         <Description>btrfs-progs package provides all the userspace programs needed to create, check, modify and correct any inconsistencies in the btrfs filesystem.</Description>
-        <Archive sha1sum="8081d1324f6afca6fdbb51badce23252fa045954" type="tarxz">http://source.pisilinux.org/1.0/btrfs-progs-v4.1.2.tar.xz</Archive>
+        <Archive sha1sum="8081d1324f6afca6fdbb51badce23252fa045954" type="tarxz">http://source.limelinux.org/1.0/btrfs-progs-v4.1.2.tar.xz</Archive>
         <BuildDependencies>
             <Dependency>xmlto</Dependency>
             <Dependency>asciidoc</Dependency>

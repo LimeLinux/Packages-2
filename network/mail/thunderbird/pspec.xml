@@ -18,7 +18,7 @@
         <Description>Thunderbird is a redesign of the Mozilla Mail Component. It is written using the XUL user interface language and designed to be cross-platform.</Description>
         <Archive sha1sum="d26eec3a8a12374c87d01a2f67cff9118860b5f2" type="tarxz">http://ftp.mozilla.org/pub/thunderbird/releases/45.1.1/source/thunderbird-45.1.1.source.tar.xz</Archive>
         <AdditionalFiles>
-            <AdditionalFile target=".mozconfig">pisilinux/mozconfig</AdditionalFile>
+            <AdditionalFile target=".mozconfig">limelinux/mozconfig</AdditionalFile>
         </AdditionalFiles>
         <BuildDependencies>
             <Dependency>wget</Dependency>
@@ -97,7 +97,7 @@
             <!-- Desktop file -->
             <AdditionalFile owner="root" permission="0644" target="/usr/share/applications/thunderbird.desktop">thunderbird.desktop</AdditionalFile>
             <!-- Notification sound file -->
-            <AdditionalFile owner="root" permission="0644" target="/usr/lib/thunderbird/sound.wav">pisilinux/sound.wav</AdditionalFile>
+            <AdditionalFile owner="root" permission="0644" target="/usr/lib/thunderbird/sound.wav">limelinux/sound.wav</AdditionalFile>
         </AdditionalFiles>
     </Package>
 

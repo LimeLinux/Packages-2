@@ -13,7 +13,7 @@
         <IsA>app:gui</IsA>
         <Summary>Utilities are always necessary for aufs</Summary>
         <Description>Utilities are always necessary for aufs</Description>
-        <Archive sha1sum="5a2db9e6fcd362a6622ba81426226c190fb8a50e" type="targz">https://sourceforge.net/projects/pisilinux/files/source/aufs-util-20160717.tar.gz</Archive>
+        <Archive sha1sum="5a2db9e6fcd362a6622ba81426226c190fb8a50e" type="targz">https://sourceforge.net/projects/limelinux/files/source/aufs-util-20160717.tar.gz</Archive>
         <Patches>
             <Patch level="1">buildflags.patch</Patch>
         </Patches>

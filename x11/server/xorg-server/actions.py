@@ -43,7 +43,7 @@ def setup():
                          --with-pic \
                          --without-dtrace \
                          --with-int10=x86emu \
-                         --with-os-name=\"PisiLinux\" \
+                         --with-os-name=\"limelinux\" \
                          --with-os-vendor=\"Pisi GNU/Linux Community\" \
                          --with-builderstring=\"Package: %s\" \
                          --with-fontrootdir=/usr/share/fonts \

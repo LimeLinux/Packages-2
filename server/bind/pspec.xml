@@ -1,6 +1,6 @@
 
 <?xml version="1.0" ?>
-<!DOCTYPE PISI SYSTEM "http://pisilinux.org/projeler/pisi/pisi-spec.dtd">
+<!DOCTYPE PISI SYSTEM "http://limelinux.org/projeler/pisi/pisi-spec.dtd">
 <PISI>
     <Source>
         <Name>bind</Name>
@@ -24,7 +24,7 @@
             <Dependency>geoip-devel</Dependency>
         </BuildDependencies>
         <Patches>
-            <Patch level="1">nslookup-pisilinux.patch</Patch>
+            <Patch level="1">nslookup-limelinux.patch</Patch>
             <Patch level="1">fedora/bind-9.5-PIE.patch</Patch>
             <Patch level="1">fedora/bind-9.5-parallel-build.patch</Patch>
             <Patch level="1">fedora/bind-96-libtool2.patch</Patch>

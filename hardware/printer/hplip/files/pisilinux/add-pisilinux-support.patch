@@ -6,7 +6,7 @@ diff -Nuar a/installer/distros.dat b/installer/distros.dat
  
  [distros]
 -distros=unknown,mepis,debian,suse,mandriva,fedora,redhat,rhel,slackware,gentoo,redflag,ubuntu,xandros,freebsd,linspire,ark,pclinuxos,centos,igos,linuxmint,linpus,gos,boss,lfs
-+distros=unknown,mepis,debian,suse,mandriva,fedora,redhat,rhel,slackware,gentoo,redflag,ubuntu,xandros,freebsd,linspire,ark,pclinuxos,centos,igos,linuxmint,linpus,gos,boss,lfs,pisilinux
++distros=unknown,mepis,debian,suse,mandriva,fedora,redhat,rhel,slackware,gentoo,redflag,ubuntu,xandros,freebsd,linspire,ark,pclinuxos,centos,igos,linuxmint,linpus,gos,boss,lfs,limelinux
  
  # ****************************************
  
@@ -16,7 +16,7 @@ diff -Nuar a/installer/distros.dat b/installer/distros.dat
  packages=avahi
 +
 +# ****************************************
-+[PiSilinux]
++[limelinux]
 +index=51
 +versions=1.0
 +display=1

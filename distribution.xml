@@ -150,7 +150,7 @@
         <Package>cups-php</Package>
         <Package>metalink</Package>
         <Package>foomatic-filters</Package>
-        <Package>pisilinux-default-settings</Package>
+        <Package>limelinux-default-settings</Package>
         <Package>mysql-client</Package>
         <Package>mysql-lib</Package>
         <Package>mysql-man-pages</Package>

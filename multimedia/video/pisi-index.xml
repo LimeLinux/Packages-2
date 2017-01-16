@@ -4,8 +4,8 @@
             <Name>ffmpeg</Name>
             <Homepage>http://ffmpeg.org</Homepage>
             <Packager>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>GPLv2</License>
             <License>GPLv3</License>
@@ -130,21 +130,21 @@
                 <Version>3.0.2</Version>
                 <Comment>Version bump.</Comment>
                 <Name>Alihan Öztürk</Name>
-                <Email>alihan@pisilinux.org</Email>
+                <Email>alihan@limelinux.org</Email>
             </Update>
             <Update release="2">
                 <Date>2016-06-09</Date>
                 <Version>2.8.6</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2016-02-16</Date>
                 <Version>2.8.6</Version>
                 <Comment>First release</Comment>
                 <Name>Alihan Öztürk</Name>
-                <Email>alihan@pisilinux.org</Email>
+                <Email>alihan@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -153,8 +153,8 @@
             <Name>gst-plugins-base-next</Name>
             <Homepage>http://gstreamer.net/</Homepage>
             <Packager>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>GPLv2</License>
             <IsA>library</IsA>
@@ -229,21 +229,21 @@
                 <Version>1.8.1</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="2">
                 <Date>2016-05-08</Date>
                 <Version>1.8.1</Version>
                 <Comment>Version Bump.</Comment>
                 <Name>Yusuf Aydemir</Name>
-                <Email>yusuf.aydemir@pisilinux.org</Email>
+                <Email>yusuf.aydemir@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2016-03-29</Date>
                 <Version>1.6.3</Version>
                 <Comment>First release</Comment>
                 <Name>Yusuf Aydemir</Name>
-                <Email>yusuf.aydemir@pisilinux.org</Email>
+                <Email>yusuf.aydemir@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -252,8 +252,8 @@
             <Name>vo-amrwbenc</Name>
             <Homepage>http://sourceforge.net/projects/opencore-amr/</Homepage>
             <Packager>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>Apache-2.0</License>
             <IsA>app:cli</IsA>
@@ -295,14 +295,14 @@
                 <Version>1.3</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2014-05-27</Date>
                 <Version>1.3</Version>
                 <Comment>First release</Comment>
                 <Name>Alihan Öztürk</Name>
-                <Email>alihan@pisilinux.org</Email>
+                <Email>alihan@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -311,8 +311,8 @@
             <Name>gst-libav-next</Name>
             <Homepage>http://gstreamer.net/</Homepage>
             <Packager>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>GPLv2</License>
             <IsA>library</IsA>
@@ -351,21 +351,21 @@
                 <Version>1.8.1</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="2">
                 <Date>2016-05-02</Date>
                 <Version>1.8.1</Version>
                 <Comment>Version bump</Comment>
                 <Name>Yusuf Aydemir</Name>
-                <Email>yusuf.aydemir@pisilinux.org</Email>
+                <Email>yusuf.aydemir@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2016-03-29</Date>
                 <Version>1.6.3</Version>
                 <Comment>First release</Comment>
                 <Name>Yusuf Aydemir</Name>
-                <Email>yusuf.aydemir@pisilinux.org</Email>
+                <Email>yusuf.aydemir@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -374,8 +374,8 @@
             <Name>smplayer</Name>
             <Homepage>http://smplayer.sourceforge.net</Homepage>
             <Packager>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>GPLv2</License>
             <IsA>app:gui</IsA>
@@ -425,14 +425,14 @@
                 <Version>15.11</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2016-01-09</Date>
                 <Version>15.11</Version>
                 <Comment>First release</Comment>
                 <Name>Stefan Gronewold</Name>
-                <Email>groni@pisilinux.org</Email>
+                <Email>groni@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -441,8 +441,8 @@
             <Name>schroedinger</Name>
             <Homepage>http://www.diracvideo.org/</Homepage>
             <Packager>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>GPLv2</License>
             <IsA>library</IsA>
@@ -489,14 +489,14 @@
                 <Version>1.0.11</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2014-05-20</Date>
                 <Version>1.0.11</Version>
                 <Comment>First release</Comment>
                 <Name>Serdar Soytetir</Name>
-                <Email>kaptan@pisilinux.org</Email>
+                <Email>kaptan@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -505,8 +505,8 @@
             <Name>gst-plugins-bad</Name>
             <Homepage>http://gstreamer.freedesktop.org/modules/gst-plugins-bad.html</Homepage>
             <Packager>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>GPLv2</License>
             <IsA>library</IsA>
@@ -627,21 +627,21 @@
                 <Version>0.10.23</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="2">
                 <Date>2016-05-14</Date>
                 <Version>0.10.23</Version>
                 <Comment>rebuild</Comment>
                 <Name>Alihan Öztürk</Name>
-                <Email>alihan@pisilinux.org</Email>
+                <Email>alihan@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2016-03-31</Date>
                 <Version>0.10.23</Version>
                 <Comment>First release</Comment>
                 <Name>Alihan Öztürk</Name>
-                <Email>alihan@pisilinux.org</Email>
+                <Email>alihan@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -650,8 +650,8 @@
             <Name>x264</Name>
             <Homepage>http://developers.videolan.org/x264.html</Homepage>
             <Packager>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>GPLv2</License>
             <IsA>library</IsA>
@@ -661,7 +661,7 @@
             <Summary xml:lang="tr">Açık kaynak kodlu H264/AVC çözücü</Summary>
             <Description xml:lang="en">x264 is a free library for encoding H264/AVC video streams.</Description>
             <Description xml:lang="tr">x264 H264/AVC görüntü dosyalarını açmak için kullanılan bir kütüphane</Description>
-            <Archive type="tarbz2" sha1sum="16d3302148b92a9f0e6254fec554e0c375ccce75">https://sourceforge.net/projects/pisilinux/files/source/last_stable_x264.tar.bz2</Archive>
+            <Archive type="tarbz2" sha1sum="16d3302148b92a9f0e6254fec554e0c375ccce75">https://sourceforge.net/projects/limelinux/files/source/last_stable_x264.tar.bz2</Archive>
             <BuildDependencies>
                 <Dependency>yasm-devel</Dependency>
                 <Dependency>l-smash-devel</Dependency>
@@ -696,21 +696,21 @@
                 <Version>2245.12062016</Version>
                 <Comment>Version bump.</Comment>
                 <Name>Alihan Öztürk</Name>
-                <Email>alihan@pisilinux.org</Email>
+                <Email>alihan@limelinux.org</Email>
             </Update>
             <Update release="2">
                 <Date>2016-06-09</Date>
                 <Version>2245</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2014-12-02</Date>
                 <Version>2245</Version>
                 <Comment>First release</Comment>
                 <Name>Stefan Gronewold(groni)</Name>
-                <Email>groni@pisilinux.org</Email>
+                <Email>groni@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -719,8 +719,8 @@
             <Name>xine-lib</Name>
             <Homepage>http://xine.sourceforge.net/</Homepage>
             <Packager>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>GPLv2</License>
             <IsA>library</IsA>
@@ -845,14 +845,14 @@
                 <Version>1.2.6</Version>
                 <Comment>Release bump.</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2016-03-27</Date>
                 <Version>1.2.6</Version>
                 <Comment>First release</Comment>
                 <Name>Kamil Atlı</Name>
-                <Email>suvari@pisilinux.org</Email>
+                <Email>suvari@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -861,8 +861,8 @@
             <Name>libdv</Name>
             <Homepage>http://libdv.sourceforge.net/</Homepage>
             <Packager>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>GPLv2</License>
             <IsA>app:console</IsA>
@@ -916,7 +916,7 @@
                 <Version>1.0.0</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2016-01-09</Date>
@@ -932,8 +932,8 @@
             <Name>libtheora</Name>
             <Homepage>http://www.theora.org/</Homepage>
             <Packager>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>BSD</License>
             <IsA>library</IsA>
@@ -1002,21 +1002,21 @@
                 <Version>1.1.1</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="2">
                 <Date>2016-05-27</Date>
                 <Version>1.1.1</Version>
                 <Comment>Release bump</Comment>
                 <Name>Serdar Soytetir</Name>
-                <Email>kaptan@pisilinux.org</Email>
+                <Email>kaptan@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2014-05-20</Date>
                 <Version>1.1.1</Version>
                 <Comment>First release</Comment>
                 <Name>Serdar Soytetir</Name>
-                <Email>kaptan@pisilinux.org</Email>
+                <Email>kaptan@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -1025,8 +1025,8 @@
             <Name>libquicktime</Name>
             <Homepage>http://libquicktime.sourceforge.net/</Homepage>
             <Packager>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>LGPLv2.1</License>
             <IsA>library</IsA>
@@ -1122,14 +1122,14 @@
                 <Version>1.2.4</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2015-11-13</Date>
                 <Version>1.2.4</Version>
                 <Comment>First release</Comment>
                 <Name>Stefan Gronewold(groni)</Name>
-                <Email>groni@pisilinux.org</Email>
+                <Email>groni@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -1138,8 +1138,8 @@
             <Name>gst-plugins-base</Name>
             <Homepage>http://gstreamer.net/</Homepage>
             <Packager>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>GPLv2</License>
             <IsA>library</IsA>
@@ -1262,21 +1262,21 @@
                 <Version>0.10.36</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="2">
                 <Date>2016-05-25</Date>
                 <Version>0.10.36</Version>
                 <Comment>Release bump</Comment>
                 <Name>Alihan Öztürk</Name>
-                <Email>alihan@pisilinux.org</Email>
+                <Email>alihan@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2014-05-20</Date>
                 <Version>0.10.36</Version>
                 <Comment>First release</Comment>
                 <Name>Alihan Öztürk</Name>
-                <Email>alihan@pisilinux.org</Email>
+                <Email>alihan@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -1285,8 +1285,8 @@
             <Name>gst-plugins-good</Name>
             <Homepage>http://gstreamer.net/</Homepage>
             <Packager>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>GPLv2</License>
             <IsA>library</IsA>
@@ -1377,14 +1377,14 @@
                 <Version>0.10.31</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2014-05-28</Date>
                 <Version>0.10.31</Version>
                 <Comment>First release</Comment>
                 <Name>Alihan Öztürk</Name>
-                <Email>alihan@pisilinux.org</Email>
+                <Email>alihan@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -1394,7 +1394,7 @@
             <Homepage>https://github.com/l-smash/l-smash</Homepage>
             <Packager>
                 <Name>Alihan Öztürk</Name>
-                <Email>alihan@pisilinux.org</Email>
+                <Email>alihan@limelinux.org</Email>
             </Packager>
             <License>custom</License>
             <IsA>app:console</IsA>
@@ -1434,7 +1434,7 @@
                 <Version>2.9.1</Version>
                 <Comment>First release</Comment>
                 <Name>Alihan Öztürk</Name>
-                <Email>alihan@pisilinux.org</Email>
+                <Email>alihan@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -1444,7 +1444,7 @@
             <Homepage>https://obsproject.com/</Homepage>
             <Packager>
                 <Name>Stefan Gronewold (groni)</Name>
-                <Email>groni@pisilinux.org</Email>
+                <Email>groni@limelinux.org</Email>
             </Packager>
             <License>GPLv2</License>
             <IsA>app:gui</IsA>
@@ -1534,7 +1534,7 @@
                 <Version>0.15.1</Version>
                 <Comment>First release</Comment>
                 <Name>Stefan Gronewold (groni)</Name>
-                <Email>groni@pisilinux.org</Email>
+                <Email>groni@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -1544,7 +1544,7 @@
             <Homepage>http://www.freedesktop.org/software/vaapi/releases/gstreamer-vaapi/</Homepage>
             <Packager>
                 <Name>Osman Erkan</Name>
-                <Email>osman.erkan@pisilinux.org</Email>
+                <Email>osman.erkan@limelinux.org</Email>
             </Packager>
             <License>LGPLv2.1</License>
             <IsA>library</IsA>
@@ -1614,28 +1614,28 @@
                 <Version>0.7.0</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="3">
                 <Date>2016-05-15</Date>
                 <Version>0.7.0</Version>
                 <Comment>Rebuild for new gstreamer-vaapi-next</Comment>
                 <Name>Ayhan Yalçınsoy</Name>
-                <Email>ayhanyalcinsoy@pisilinux.org</Email>
+                <Email>ayhanyalcinsoy@limelinux.org</Email>
             </Update>
             <Update release="2">
                 <Date>2016-05-02</Date>
                 <Version>0.7.0</Version>
                 <Comment>Version bump.</Comment>
                 <Name>Ayhan Yalçınsoy</Name>
-                <Email>ayhanyalcinsoy@pisilinux.org</Email>
+                <Email>ayhanyalcinsoy@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2015-07-23</Date>
                 <Version>0.6.0</Version>
                 <Comment>First release</Comment>
                 <Name>Ayhan Yalçınsoy</Name>
-                <Email>ayhanyalcinsoy@pisilinux.org</Email>
+                <Email>ayhanyalcinsoy@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -1644,8 +1644,8 @@
             <Name>libdvbpsi</Name>
             <Homepage>http://www.videolan.org/libdvbpsi/</Homepage>
             <Packager>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>GPLv2</License>
             <IsA>library</IsA>
@@ -1683,14 +1683,14 @@
                 <Version>1.3.0</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2016-04-02</Date>
                 <Version>1.3.0</Version>
                 <Comment>First release</Comment>
                 <Name>Alihan Öztürk</Name>
-                <Email>alihan@pisilinux.org</Email>
+                <Email>alihan@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -1700,7 +1700,7 @@
             <Homepage>http://www.freedesktop.org/software/vaapi/releases/gstreamer-vaapi/</Homepage>
             <Packager>
                 <Name>Kamil Atlı</Name>
-                <Email>suvari@pisilinux.org</Email>
+                <Email>suvari@limelinux.org</Email>
             </Packager>
             <License>LGPLv2.1</License>
             <IsA>library</IsA>
@@ -1762,14 +1762,14 @@
                 <Version>1.8.1</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2016-05-14</Date>
                 <Version>1.8.1</Version>
                 <Comment>First release.</Comment>
                 <Name>Kamil Atlı</Name>
-                <Email>suvari@pisilinux.org</Email>
+                <Email>suvari@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -1778,8 +1778,8 @@
             <Name>gstreamer</Name>
             <Homepage>http://gstreamer.freedesktop.org/</Homepage>
             <Packager>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>LGPLv2.1</License>
             <IsA>library</IsA>
@@ -1860,7 +1860,7 @@
                 <Version>0.10.36</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="2">
                 <Date>2016-05-25</Date>
@@ -1883,8 +1883,8 @@
             <Name>x265</Name>
             <Homepage>http://x265.org</Homepage>
             <Packager>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>GPLv2</License>
             <IsA>library</IsA>
@@ -1932,21 +1932,21 @@
                 <Version>1.9</Version>
                 <Comment>Version Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="2">
                 <Date>2016-06-09</Date>
                 <Version>1.7</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2015-07-23</Date>
                 <Version>1.7</Version>
                 <Comment>First release</Comment>
                 <Name>Ayhan Yalçınsoy</Name>
-                <Email>ayhanyalcinsoy@pisilinux.org</Email>
+                <Email>ayhanyalcinsoy@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -1956,7 +1956,7 @@
             <Homepage>http://gstreamer.freedesktop.org/bindings/cplusplus.html</Homepage>
             <Packager>
                 <Name>Osman Erkan</Name>
-                <Email>osman.erkan@pisilinux.org</Email>
+                <Email>osman.erkan@limelinux.org</Email>
             </Packager>
             <License>GPLv2</License>
             <IsA>library</IsA>
@@ -2018,14 +2018,14 @@
                 <Version>0.10.11</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2016-03-29</Date>
                 <Version>0.10.11</Version>
                 <Comment>First release</Comment>
                 <Name>Alihan Öztürk</Name>
-                <Email>alihan@pisilinux.org</Email>
+                <Email>alihan@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -2034,8 +2034,8 @@
             <Name>xvid</Name>
             <Homepage>http://www.xvid.org/</Homepage>
             <Packager>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>GPLv2</License>
             <IsA>library</IsA>
@@ -2071,14 +2071,14 @@
                 <Version>1.3.3</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2014-12-14</Date>
                 <Version>1.3.3</Version>
                 <Comment>First release</Comment>
                 <Name>Yusuf Aydemir</Name>
-                <Email>yusuf.aydemir@pisilinux.org</Email>
+                <Email>yusuf.aydemir@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -2087,8 +2087,8 @@
             <Name>libmpeg2</Name>
             <Homepage>http://libmpeg2.sourceforge.net/</Homepage>
             <Packager>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>GPLv2</License>
             <IsA>library</IsA>
@@ -2132,7 +2132,7 @@
                 <Version>0.5.1</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2014-05-25</Date>
@@ -2148,8 +2148,8 @@
             <Name>vokoscreen</Name>
             <Homepage>http://www.kohaupt-online.de/hp/</Homepage>
             <Packager>
-                <Name>Pisilinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>GPLv2</License>
             <IsA>app:gui</IsA>
@@ -2202,14 +2202,14 @@
                 <Version>2.4.19</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2016-04-14</Date>
                 <Version>2.4.19</Version>
                 <Comment>Version bump.</Comment>
                 <Name>Stefan Gronewold(groni)</Name>
-                <Email>groni@pisilinux.org</Email>
+                <Email>groni@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -2218,8 +2218,8 @@
             <Name>kaffeine</Name>
             <Homepage>http://www.kde.org/applications/multimedia/kaffeine/</Homepage>
             <Packager>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>GPLv1</License>
             <IsA>app:gui</IsA>
@@ -2300,14 +2300,14 @@
                 <Version>2.0.1</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2016-06-04</Date>
                 <Version>2.0.1</Version>
                 <Comment>First Release.</Comment>
                 <Name>Stefan Gronewold</Name>
-                <Email>groni@pisilinux.org</Email>
+                <Email>groni@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -2316,8 +2316,8 @@
             <Name>gst-plugins-ugly</Name>
             <Homepage>http://gstreamer.net/</Homepage>
             <Packager>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>GPLv2</License>
             <IsA>library</IsA>
@@ -2378,14 +2378,14 @@
                 <Version>0.10.19</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2016-01-10</Date>
                 <Version>0.10.19</Version>
                 <Comment>First release</Comment>
                 <Name>Alihan Öztürk</Name>
-                <Email>alihan@pisilinux.org</Email>
+                <Email>alihan@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -2394,8 +2394,8 @@
             <Name>libv4l</Name>
             <Homepage>http://freecode.com/projects/libv4l</Homepage>
             <Packager>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>GPLv2</License>
             <License>LGPLv2.1</License>
@@ -2501,28 +2501,28 @@
                 <Version>1.10.0</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="3">
                 <Date>2016-05-28</Date>
                 <Version>1.10.0</Version>
                 <Comment>update</Comment>
                 <Name>Serdar Soytetir</Name>
-                <Email>kaptan@pisilinux.org</Email>
+                <Email>kaptan@limelinux.org</Email>
             </Update>
             <Update release="2">
                 <Date>2015-05-25</Date>
                 <Version>1.0.1</Version>
                 <Comment>Rebuild</Comment>
                 <Name>Serdar Soytetir</Name>
-                <Email>kaptan@pisilinux.org</Email>
+                <Email>kaptan@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2014-05-20</Date>
                 <Version>1.0.1</Version>
                 <Comment>First release</Comment>
                 <Name>Serdar Soytetir</Name>
-                <Email>kaptan@pisilinux.org</Email>
+                <Email>kaptan@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -2531,8 +2531,8 @@
             <Name>qmplay2</Name>
             <Homepage>http://zaps166.sourceforge.net/</Homepage>
             <Packager>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>LGPL</License>
             <IsA>app:gui</IsA>
@@ -2608,14 +2608,14 @@
                 <Version>16.06.01</Version>
                 <Comment>Version bump.</Comment>
                 <Name>Stefan Gronewold(groni)</Name>
-                <Email>groni@pisilinux.org</Email>
+                <Email>groni@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2016-05-12</Date>
                 <Version>16.05.06</Version>
                 <Comment>First release</Comment>
                 <Name>Stefan Gronewold</Name>
-                <Email>groni@pisilinux.org</Email>
+                <Email>groni@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -2624,8 +2624,8 @@
             <Name>gst-plugins-ugly-next</Name>
             <Homepage>http://gstreamer.net/</Homepage>
             <Packager>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>GPLv2</License>
             <IsA>library</IsA>
@@ -2683,21 +2683,21 @@
                 <Version>1.8.1</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="2">
                 <Date>2016-05-12</Date>
                 <Version>1.8.1</Version>
                 <Comment>Version bumpe</Comment>
                 <Name>Kamil Atlı</Name>
-                <Email>suvari@pisilinux.org</Email>
+                <Email>suvari@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2016-03-29</Date>
                 <Version>1.6.3</Version>
                 <Comment>First release</Comment>
                 <Name>Yusuf Aydemir</Name>
-                <Email>yusuf.aydemir@pisilinux.org</Email>
+                <Email>yusuf.aydemir@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -2706,8 +2706,8 @@
             <Name>mpv-player</Name>
             <Homepage>http://www.mplayerhq.hu/</Homepage>
             <Packager>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>GPLv2+</License>
             <IsA>app:gui</IsA>
@@ -2818,28 +2818,28 @@
                 <Version>0.17.0</Version>
                 <Comment>Version Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="3">
                 <Date>2016-06-09</Date>
                 <Version>0.16.0</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="2">
                 <Date>2016-03-28</Date>
                 <Version>0.16.0</Version>
                 <Comment>Version bump.</Comment>
                 <Name>Stefan Gronewold(groni)</Name>
-                <Email>groni@pisilinux.org</Email>
+                <Email>groni@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2016-03-27</Date>
                 <Version>0.14</Version>
                 <Comment>First release</Comment>
                 <Name>Stefan Gronewold</Name>
-                <Email>groni@pisilinux.org</Email>
+                <Email>groni@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -2848,8 +2848,8 @@
             <Name>crystalhd</Name>
             <Homepage>http://www.broadcom.com/support/crystal_hd/</Homepage>
             <Packager>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>GPLv2</License>
             <License>LGPLv2.1</License>
@@ -2859,7 +2859,7 @@
             <Summary xml:lang="tr">Broadcom BCM70012 ve BCM70015 için Crystal HD sürücüleri</Summary>
             <Description xml:lang="en">Drivers for Broadcom&apos;s BCM70012 and BCM70015 Crystal HD</Description>
             <Description xml:lang="tr">Broadcom BCM70012 ve BCM70015 için Crystal HD sürücüleri</Description>
-            <Archive type="tarlzma" sha1sum="31616471614451730ba927471d7a2403dc333927">http://source.pisilinux.org/1.0/crystalhd.tar.xz</Archive>
+            <Archive type="tarlzma" sha1sum="31616471614451730ba927471d7a2403dc333927">http://source.limelinux.org/1.0/crystalhd.tar.xz</Archive>
             <SourceURI>crystalhd/pspec.xml</SourceURI>
         </Source>
         <Package>
@@ -2898,14 +2898,14 @@
                 <Version>20100703</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2014-05-20</Date>
                 <Version>20100703</Version>
                 <Comment>First release</Comment>
                 <Name>Serdar Soytetir</Name>
-                <Email>kaptan@pisilinux.org</Email>
+                <Email>kaptan@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -2914,8 +2914,8 @@
             <Name>gst-plugins-good-next</Name>
             <Homepage>http://gstreamer.net/</Homepage>
             <Packager>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>GPLv2</License>
             <IsA>library</IsA>
@@ -2986,21 +2986,21 @@
                 <Version>1.8.1</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="2">
                 <Date>2016-05-02</Date>
                 <Version>1.8.1</Version>
                 <Comment>Version bump</Comment>
                 <Name>Yusuf Aydemir</Name>
-                <Email>yusuf.aydemir@pisilinux.org</Email>
+                <Email>yusuf.aydemir@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2016-03-29</Date>
                 <Version>1.6.3</Version>
                 <Comment>First release</Comment>
                 <Name>Yusuf Aydemir</Name>
-                <Email>yusuf.aydemir@pisilinux.org</Email>
+                <Email>yusuf.aydemir@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -3010,7 +3010,7 @@
             <Homepage>http://smplayer.sourceforge.net/en/info</Homepage>
             <Packager>
                 <Name>Pisi Linux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>GPLv2</License>
             <IsA>app:gui</IsA>
@@ -3050,14 +3050,14 @@
                 <Version>15.11</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2016-01-06</Date>
                 <Version>15.11</Version>
                 <Comment>First release</Comment>
                 <Name>Stefan Gronewold</Name>
-                <Email>groni@pisilinux.org</Email>
+                <Email>groni@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -3066,8 +3066,8 @@
             <Name>opencore-amr</Name>
             <Homepage>http://opencore-amr.sourceforge.net/</Homepage>
             <Packager>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>Apache-2.0</License>
             <IsA>library</IsA>
@@ -3104,14 +3104,14 @@
                 <Version>0.1.3</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2014-05-20</Date>
                 <Version>0.1.3</Version>
                 <Comment>First release</Comment>
                 <Name>Serdar Soytetir</Name>
-                <Email>kaptan@pisilinux.org</Email>
+                <Email>kaptan@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -3121,7 +3121,7 @@
             <Homepage>http://gstreamer.freedesktop.org/bindings/cplusplus.html</Homepage>
             <Packager>
                 <Name>Kamil Atlı</Name>
-                <Email>suvari@pisilinux.org</Email>
+                <Email>suvari@limelinux.org</Email>
             </Packager>
             <License>GPLv2</License>
             <IsA>library</IsA>
@@ -3178,14 +3178,14 @@
                 <Version>1.4.3</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2016-05-07</Date>
                 <Version>1.4.3</Version>
                 <Comment>First release</Comment>
                 <Name>Kamil Atlı</Name>
-                <Email>suvari@pisilinux.org</Email>
+                <Email>suvari@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -3194,8 +3194,8 @@
             <Name>vo-aacenc</Name>
             <Homepage>http://sourceforge.net/projects/opencore-amr/</Homepage>
             <Packager>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>Apache-2.0</License>
             <IsA>app:cli</IsA>
@@ -3228,14 +3228,14 @@
                 <Version>1.3</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2014-06-18</Date>
                 <Version>1.3</Version>
                 <Comment>First release</Comment>
                 <Name>Serdar Soytetir</Name>
-                <Email>kaptan@pisilinux.org</Email>
+                <Email>kaptan@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -3245,7 +3245,7 @@
             <Homepage>http://gstreamer.freedesktop.org/modules/gst-plugins-bad.html</Homepage>
             <Packager>
                 <Name>Osman Erkan</Name>
-                <Email>osman.erkan@pisilinux.org</Email>
+                <Email>osman.erkan@limelinux.org</Email>
             </Packager>
             <License>GPLv2</License>
             <IsA>library</IsA>
@@ -3356,21 +3356,21 @@
                 <Version>1.8.1</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="2">
                 <Date>2016-05-12</Date>
                 <Version>1.8.1</Version>
                 <Comment>Version bump</Comment>
                 <Name>Yusuf Aydemir</Name>
-                <Email>yusuf.aydemir@pisilinux.org</Email>
+                <Email>yusuf.aydemir@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2016-03-31</Date>
                 <Version>1.6.3</Version>
                 <Comment>First release</Comment>
                 <Name>Yusuf Aydemir</Name>
-                <Email>yusuf.aydemir@pisilinux.org</Email>
+                <Email>yusuf.aydemir@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -3379,8 +3379,8 @@
             <Name>libvpx</Name>
             <Homepage>http://www.webmproject.org</Homepage>
             <Packager>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>BSD</License>
             <IsA>app:console</IsA>
@@ -3429,21 +3429,21 @@
                 <Version>1.5.0</Version>
                 <Comment>Version Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="2">
                 <Date>2016-06-09</Date>
                 <Version>1.4.0</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2014-07-15</Date>
                 <Version>1.4.0</Version>
                 <Comment>First release</Comment>
                 <Name>Osman Erkan</Name>
-                <Email>osman.erkan@pisilinux.org</Email>
+                <Email>osman.erkan@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -3452,8 +3452,8 @@
             <Name>gstreamer-next</Name>
             <Homepage>http://gstreamer.freedesktop.org/</Homepage>
             <Packager>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>LGPLv2.1</License>
             <IsA>library</IsA>
@@ -3529,28 +3529,28 @@
                 <Version>1.8.1</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="3">
                 <Date>2016-05-02</Date>
                 <Version>1.8.1</Version>
                 <Comment>rebuild</Comment>
                 <Name>Yusuf Aydemir</Name>
-                <Email>yusuf.aydemir@pisilinux.org</Email>
+                <Email>yusuf.aydemir@limelinux.org</Email>
             </Update>
             <Update release="2">
                 <Date>2016-05-02</Date>
                 <Version>1.8.1</Version>
                 <Comment>Version bump</Comment>
                 <Name>Yusuf Aydemir</Name>
-                <Email>yusuf.aydemir@pisilinux.org</Email>
+                <Email>yusuf.aydemir@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2016-03-30</Date>
                 <Version>1.6.3</Version>
                 <Comment>First release</Comment>
                 <Name>Yusuf Aydemir</Name>
-                <Email>yusuf.aydemir@pisilinux.org</Email>
+                <Email>yusuf.aydemir@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -3559,8 +3559,8 @@
             <Name>libmp4v2</Name>
             <Homepage>http://code.google.com/p/mp4v2</Homepage>
             <Packager>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>MPL-1.1</License>
             <IsA>library</IsA>
@@ -3607,14 +3607,14 @@
                 <Version>2.0.0</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2014-05-20</Date>
                 <Version>2.0.0</Version>
                 <Comment>First release</Comment>
                 <Name>Serdar Soytetir</Name>
-                <Email>kaptan@pisilinux.org</Email>
+                <Email>kaptan@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -3623,8 +3623,8 @@
             <Name>smpeg</Name>
             <Homepage>http://www.lokigames.com/development/smpeg.php3</Homepage>
             <Packager>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>LGPLv2.1</License>
             <IsA>library</IsA>
@@ -3635,7 +3635,7 @@
             <Summary xml:lang="en">SDL MPEG library</Summary>
             <Description xml:lang="en">SMPEG is a SDL MPEG decoding library.</Description>
             <Description xml:lang="tr">SMPEG, MPEG formatını kullanabilen SDL kitaplığıdır.</Description>
-            <Archive type="tarxz" sha1sum="a9c3c65628092b694510d596591ca20f1863cf4d">http://source.pisilinux.org/1.0/smpeg-0.4.5.tar.xz</Archive>
+            <Archive type="tarxz" sha1sum="a9c3c65628092b694510d596591ca20f1863cf4d">http://source.limelinux.org/1.0/smpeg-0.4.5.tar.xz</Archive>
             <BuildDependencies>
                 <Dependency>libsdl-devel</Dependency>
                 <Dependency>freeglut-devel</Dependency>
@@ -3703,7 +3703,7 @@
                 <Version>0.4.5</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2014-06-01</Date>
@@ -3719,8 +3719,8 @@
             <Name>vlc</Name>
             <Homepage>http://www.videolan.org/vlc</Homepage>
             <Packager>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>LGPLv2</License>
             <IsA>app:gui</IsA>
@@ -4007,21 +4007,21 @@
                 <Version>2.2.4</Version>
                 <Comment>Version Bump</Comment>
                 <Name>Alihan Öztürk</Name>
-                <Email>alihan@pisilinux.org</Email>
+                <Email>alihan@limelinux.org</Email>
             </Update>
             <Update release="2">
                 <Date>2016-06-09</Date>
                 <Version>2.2.0</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2016-03-27</Date>
                 <Version>2.2.0</Version>
                 <Comment>First release</Comment>
                 <Name>Stefan Gronewold(groni)</Name>
-                <Email>groni@pisilinux.org</Email>
+                <Email>groni@limelinux.org</Email>
             </Update>
         </History>
     </SpecFile>
@@ -4030,8 +4030,8 @@
             <Name>libmatroska</Name>
             <Homepage>http://www.matroska.org/</Homepage>
             <Packager>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Packager>
             <License>GPLv2</License>
             <IsA>library</IsA>
@@ -4076,7 +4076,7 @@
                 <Version>1.4.2</Version>
                 <Comment>Release Bump</Comment>
                 <Name>Pisi Linux Community</Name>
-                <Email>admin@pisilinux.org</Email>
+                <Email>admin@limelinux.org</Email>
             </Update>
             <Update release="1">
                 <Date>2015-08-20</Date>

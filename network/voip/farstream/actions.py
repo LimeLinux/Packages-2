@@ -12,8 +12,8 @@ def setup():
     #autotools.autoreconf("-fi")
     autotools.configure("--prefix=/usr \
                          --with-html-dir=/%s/%s/html \
-                         --with-package-name='PisiLinux farstream package' \
-                         --with-package-origin='http://www.pisilinux.org'"
+                         --with-package-name='limelinux farstream package' \
+                         --with-package-origin='http://www.limelinux.org'"
                          % (get.docDIR(), get.srcNAME()))
 
 def build():

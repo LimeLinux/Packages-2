@@ -29,14 +29,14 @@ opt_multilib = "--enable-multilib" if get.ARCH() == "x86_64" else ""
 cflags = "-O2 -g"
 
 
-def removePisiLinuxSection(_dir):
+def removelimelinuxSection(_dir):
     for root, dirs, files in os.walk(_dir):
         for name in files:
             # FIXME: should we do this only on nonshared or all ?
             # if ("crt" in name and name.endswith(".o")) or name.endswith("nonshared.a"):
             if ("crt" in name and name.endswith(".o")) or name.endswith(".a"):
                 i = os.path.join(root, name)
-                shelltools.system('objcopy -R ".comment.PISILINUX.OPTs" -R ".note.gnu.build-id" %s' % i)
+                shelltools.system('objcopy -R ".comment.limelinux.OPTs" -R ".note.gnu.build-id" %s' % i)
 
 def exportFlags():
     # we set real flags with new configure settings, these are just safe optimizations
@@ -69,7 +69,7 @@ def setup():
                        --includedir=/usr/include \
                        --mandir=/usr/share/man \
                        --infodir=/usr/share/info \
-                       --with-bugurl=http://bugs.pisilinux.org \
+                       --with-bugurl=http://bugs.limelinux.org \
                        --enable-languages=c,c++,fortran,lto,objc,obj-c++ \
                        --disable-libgcj \
                        --enable-shared \
@@ -122,9 +122,9 @@ def install():
     pisitools.dosym("/usr/bin/cpp", "/lib/cpp")
 
     # Remove our options section from crt stuff
-    removePisiLinuxSection("%s/usr/lib/" % get.installDIR())
+    removelimelinuxSection("%s/usr/lib/" % get.installDIR())
     if get.ARCH() == "x86_64":
-        removePisiLinuxSection("%s/usr/lib32/" % get.installDIR())
+        removelimelinuxSection("%s/usr/lib32/" % get.installDIR())
 
 
     # autoload gdb pretty printers

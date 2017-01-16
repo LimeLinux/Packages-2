@@ -13,7 +13,7 @@
         <IsA>library</IsA>
         <Summary>Google's data interchange format</Summary>
         <Description>Protocol Buffers are a way of encoding structured data in an efficient yet extensible format. Google uses Protocol Buffers for almost all of its internal RPC protocols and file formats.</Description>
-        <Archive sha1sum="d3bd3cfaa046d252e1b7c3c45106baab06b51f59" type="targz">http://source.pisilinux.org/1.0/protobuf-3.0.0-pre.tar.gz</Archive>
+        <Archive sha1sum="d3bd3cfaa046d252e1b7c3c45106baab06b51f59" type="targz">http://source.limelinux.org/1.0/protobuf-3.0.0-pre.tar.gz</Archive>
         <BuildDependencies>
             <Dependency>python-setuptools</Dependency>
         </BuildDependencies>

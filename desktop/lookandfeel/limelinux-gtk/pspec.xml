@@ -13,7 +13,7 @@
         <IsA>library</IsA>
         <Summary>limelinux-gtk</Summary>
         <Description>Gtk uygulamaları için tema ve yapılandırma</Description>
-        <Archive sha1sum="bf961bbd740e75f8d7e4c8fb5c054983b3ffb57c" type="targz">https://sourceforge.net/projects/pisi-source/files/pisilinux-gtk-0.1.tar.gz</Archive> 
+        <Archive sha1sum="bf961bbd740e75f8d7e4c8fb5c054983b3ffb57c" type="targz">https://sourceforge.net/projects/pisi-source/files/limelinux-gtk-0.1.tar.gz</Archive> 
     </Source>
 
     <Package>

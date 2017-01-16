@@ -2,7 +2,7 @@
 +++ plymouth-0.8.8-esk/themes/Makefile.am	2013-01-15 05:00:46.920416669 +0200
 @@ -1,2 +1,2 @@
 -SUBDIRS = spinfinity fade-in text details solar glow script spinner
-+SUBDIRS = spinfinity fade-in text details solar glow script spinner pisilinux
++SUBDIRS = spinfinity fade-in text details solar glow script spinner limelinux
  MAINTAINERCLEANFILES = Makefile.in
 --- plymouth-0.8.8/src/plymouthd.conf	2012-10-26 18:01:45.000000000 +0300
 +++ plymouth-0.8.8-esk/src/plymouthd.conf	2013-01-15 05:04:34.391408794 +0200
@@ -10,7 +10,7 @@
  # Administrator customizations go in this file
  #[Daemon]
 -#Theme=fade-in
-+#Theme=pisilinux
++#Theme=limelinux
 --- plymouth-0.8.8/src/plymouthd.defaults	2012-10-26 18:01:45.000000000 +0300
 +++ plymouth-0.8.8-esk/src/plymouthd.defaults	2013-01-15 05:06:37.681404525 +0200
 @@ -1,5 +1,5 @@
@@ -18,7 +18,7 @@
  # upgrades.
  [Daemon]
 -Theme=spinner
-+Theme=pisilinux
++Theme=limelinux
  ShowDelay=0
 --- plymouth-0.8.8/configure.ac	2012-10-26 18:01:45.000000000 +0300
 +++ plymouth-0.8.8-esk/configure.ac	2013-01-15 05:08:54.923399773 +0200
@@ -26,7 +26,7 @@
             themes/glow/Makefile
             themes/spinner/Makefile
             themes/script/Makefile
-+           themes/pisilinux/Makefile
++           themes/limelinux/Makefile
             images/Makefile
  	   scripts/plymouth-generate-initrd
  	   scripts/plymouth-populate-initrd

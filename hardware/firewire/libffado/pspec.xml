@@ -99,7 +99,7 @@
             <Path fileType="data">/usr/share/pixmaps</Path>
         </Files>
         <AdditionalFiles>
-            <AdditionalFile owner="root" permission="0644" target="/usr/share/applications/pisilinux-ffadomixer.desktop">pisilinux-ffadomixer.desktop</AdditionalFile>
+            <AdditionalFile owner="root" permission="0644" target="/usr/share/applications/limelinux-ffadomixer.desktop">limelinux-ffadomixer.desktop</AdditionalFile>
         </AdditionalFiles>
     </Package>
 

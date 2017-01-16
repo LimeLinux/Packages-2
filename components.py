@@ -28,8 +28,8 @@ class Components():
             <Description xml:lang="en">FIXME</Description>
             <Group>FIXME</Group>
             <Maintainer>
-                <Name>PisiLinux Community</Name>
-                <Email>admins@pisilinux.org</Email>
+                <Name>limelinux Community</Name>
+                <Email>admins@limelinux.org</Email>
             </Maintainer>
         </Component>"""
     CBGN = """<PISI>

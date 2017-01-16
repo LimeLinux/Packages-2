@@ -29,7 +29,7 @@ def setup():
     shelltools.system('./autogen.sh                     \
                         --prefix=/usr                   \
                         --sysconfdir=/etc               \
-                        --with-vendor=PisiLinux         \
+                        --with-vendor=limelinux         \
                         --with-lang="ALL"               \
                         --enable-gtk3                   \
                         --with-help                     \

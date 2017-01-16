@@ -32,7 +32,7 @@
     </Package>
 
     <Package>
-        <Name>plymouth-theme-pisilinux</Name>
+        <Name>plymouth-theme-limelinux</Name>
         <Summary xml:lang="tr">plymouth için Pisi Linux teması</Summary>
     </Package>
 

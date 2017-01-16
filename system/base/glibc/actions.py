@@ -20,14 +20,14 @@ if get.buildTYPE() == "emul32": defaultflags += " -m32"
 #sysflags = "-mtune=generic -march=x86-64" if get.ARCH() == "x86_64" else "-mtune=generic -march=i686"
 
 ### helper functions ###
-def removePisiLinuxSection(_dir):
+def removelimelinuxSection(_dir):
     for root, dirs, files in os.walk(_dir):
         for name in files:
             # FIXME: should we do this only on nonshared or all ?
             # if ("crt" in name and name.endswith(".o")) or name.endswith("nonshared.a"):
             if ("crt" in name and name.endswith(".o")) or name.endswith(".a"):
                 i = os.path.join(root, name)
-                shelltools.system('objcopy -R ".comment.PISILINUX.OPTs" -R ".note.gnu.build-id" %s' % i)
+                shelltools.system('objcopy -R ".comment.limelinux.OPTs" -R ".note.gnu.build-id" %s' % i)
 
 ldconf32bit = """/lib32
 /usr/lib32
@@ -51,7 +51,7 @@ def setup():
                --mandir=/usr/share/man \
                --infodir=/usr/share/info \
                --libexecdir=/usr/lib/misc \
-               --with-bugurl=https://bugs.pisilinux.org \
+               --with-bugurl=https://bugs.limelinux.org \
                --enable-add-ons \
                --enable-obsolete-rpc \
                --enable-kernel=2.6.32 \
@@ -111,7 +111,7 @@ def install():
         autotools.rawInstall("install_root=%s localedata/install-locales" % get.installDIR())
 
         # Remove our options section from crt stuff
-        removePisiLinuxSection("%s/usr/lib/" % get.installDIR())
+        removelimelinuxSection("%s/usr/lib/" % get.installDIR())
 
 
     if get.buildTYPE() == "emul32":
@@ -120,7 +120,7 @@ def install():
         shelltools.echo("%s/etc/ld.so.conf.d/60-glibc-32bit.conf" % get.installDIR(), ldconf32bit)
 
         # Remove our options section from crt stuff
-        removePisiLinuxSection("%s/usr/lib32/" % get.installDIR())
+        removelimelinuxSection("%s/usr/lib32/" % get.installDIR())
 
         pisitools.removeDir("/tmp32")
 

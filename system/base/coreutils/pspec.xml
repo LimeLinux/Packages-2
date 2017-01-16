@@ -27,7 +27,7 @@
         </BuildDependencies>
         <Patches>
 <!--             <Patch level="1">coreutils-8.22-shuf-segfault.patch</Patch> -->
-            <!-- PisiLinux patches -->
+            <!-- limelinux patches -->
             <Patch level="0">remove_am_silent_rules.patch</Patch>
 <!--             <Patch level="0">add-more-dircolors.patch</Patch> -->
 <!--             <Patch level="1">0001-cp-don-t-reserve-a-device-number.patch</Patch> -->

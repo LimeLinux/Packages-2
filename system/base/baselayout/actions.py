@@ -39,4 +39,4 @@ def install():
         # Hack for binary blobs built on multi-lib systems
         pisitools.dosym("lib", "/lib64")
 
-    pisitools.dosym("pisilinux-release", "/etc/system-release")
+    pisitools.dosym("limelinux-release", "/etc/system-release")

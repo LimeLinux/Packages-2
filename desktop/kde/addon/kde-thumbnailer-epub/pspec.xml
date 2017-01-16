@@ -13,7 +13,7 @@
         <IsA>library</IsA>
         <Summary>A KDE thumbnail generator for the ePub file format.</Summary>
         <Description>A KDE thumbnail generator for the ePub file format.</Description>
-        <Archive sha1sum="df73155616235d5e5e6083abd709685de9c77f7c" type="targz">https://sourceforge.net/projects/pisilinux/files/source/kde-thumbnailer-epub-1.1.tar.gz</Archive>
+        <Archive sha1sum="df73155616235d5e5e6083abd709685de9c77f7c" type="targz">https://sourceforge.net/projects/limelinux/files/source/kde-thumbnailer-epub-1.1.tar.gz</Archive>
         <BuildDependencies>
             <Dependency>qt5-base-devel</Dependency>
             <Dependency>karchive-devel</Dependency>

@@ -37,7 +37,7 @@
             <Dependency>readline-devel</Dependency>
         </BuildDependencies>
         <Patches>
-<!--             <Patch>pisilinux-qemu.patch</Patch> -->
+<!--             <Patch>limelinux-qemu.patch</Patch> -->
         </Patches>
     </Source>
 

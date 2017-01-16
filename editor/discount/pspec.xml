@@ -13,7 +13,7 @@
         <IsA>app:console</IsA>
         <Summary>A Markdown implementation written in C</Summary>
         <Description>implementation of the Markdown markup language in C</Description>
-        <Archive sha1sum="68dd1b6c61b7ad62ceef9ae2bd83eeb53a6939d5" type="targz">https://sourceforge.net/projects/pisilinux/files/source/discount-2.2.1.tar.gz</Archive>       
+        <Archive sha1sum="68dd1b6c61b7ad62ceef9ae2bd83eeb53a6939d5" type="targz">https://sourceforge.net/projects/limelinux/files/source/discount-2.2.1.tar.gz</Archive>       
     </Source>
 
     <Package>

@@ -4,7 +4,7 @@
 <PISI>
     <Source>
         <Name>mudur</Name>
-        <Homepage>http://www.pisilinux.org</Homepage>
+        <Homepage>http://www.limelinux.org</Homepage>
         <Packager>
             <Name>Lime GNU/LINUX Community</Name>
             <Email>admin@limelinux.com</Email>
@@ -13,7 +13,7 @@
         <IsA>app:console</IsA>
         <Summary>Pisi Linux boot and initialization system</Summary>
         <Description>mudur handles mounting of the filesystems, loading of the device drivers, starting of the system services, and other jobs during the Pisi Linux boot and shutdown sequences.</Description>
-        <Archive sha1sum="42c9163b5fe3d9682caa20f639fbec1d0be784cd" type="tarxz">http://source.pisilinux.org/1.0/mudur-4.4.0.tar.xz</Archive>
+        <Archive sha1sum="42c9163b5fe3d9682caa20f639fbec1d0be784cd" type="tarxz">http://source.limelinux.org/1.0/mudur-4.4.0.tar.xz</Archive>
         <Patches>
             <Patch>set_file_mode.patch</Patch>
             <Patch>no_err-no_msg.patch</Patch>
@@ -42,7 +42,7 @@
             <Dependency>baselayout</Dependency>
             <Dependency>util-linux</Dependency>
             <Dependency>wireless-tools</Dependency>
-            <Dependency>pisilinux-python</Dependency>
+            <Dependency>limelinux-python</Dependency>
         </RuntimeDependencies>
         <Files>
             <Path fileType="config">/etc/conf.d</Path>

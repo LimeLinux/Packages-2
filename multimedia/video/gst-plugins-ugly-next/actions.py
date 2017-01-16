@@ -11,8 +11,8 @@ from pisi.actionsapi import pisitools
 def setup():
     autotools.configure("--disable-static \
                          --enable-experimental \
-                         --with-package-name=\"PisiLinux gstreamer-plugins-ugly package\" \
-                         --with-package-origin=\"http://www.pisilinux.org/eng\"")
+                         --with-package-name=\"limelinux gstreamer-plugins-ugly package\" \
+                         --with-package-origin=\"http://www.limelinux.org/eng\"")
 
     pisitools.dosed("libtool", " -shared ", " -Wl,-O1,--as-needed -shared ")
 

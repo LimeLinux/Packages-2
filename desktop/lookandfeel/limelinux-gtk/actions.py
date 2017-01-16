@@ -9,5 +9,5 @@ from pisi.actionsapi import pisitools
 WorkDir = "."
 
 def install():
-    pisitools.insinto("/usr/share/themes/limelinux-firefox", "pisilinux-firefox")
-    pisitools.insinto("/usr/share/themes/limelinux-gtk2", "pisilinux-gtk2")
+    pisitools.insinto("/usr/share/themes/limelinux-firefox", "limelinux-firefox")
+    pisitools.insinto("/usr/share/themes/limelinux-gtk2", "limelinux-gtk2")

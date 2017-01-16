@@ -14,7 +14,7 @@
         <IsA>library</IsA>
         <Summary>Drivers for Broadcom's BCM70012 and BCM70015 Crystal HD</Summary>
         <Description>Drivers for Broadcom's BCM70012 and BCM70015 Crystal HD</Description>
-        <Archive sha1sum="31616471614451730ba927471d7a2403dc333927" type="tarlzma">http://source.pisilinux.org/1.0/crystalhd.tar.xz</Archive>
+        <Archive sha1sum="31616471614451730ba927471d7a2403dc333927" type="tarlzma">http://source.limelinux.org/1.0/crystalhd.tar.xz</Archive>
     </Source>
     <Package>
         <Name>libcrystalhd</Name>
