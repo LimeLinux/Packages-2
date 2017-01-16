@@ -1,0 +1,20 @@
+[Desktop Entry]
+Categories=Mixer;Audio;AudioVideo;HardwareSettings;Qt;
+Comment[tr_TR]=Firewire ses aygıtları için ses karıştırıcı
+Comment=Firewire ses aygıtları için ses karıştırıcı
+Exec=ffado-mixer
+GenericName[tr_TR]=FFADO Ses karıştırıcı
+GenericName=FFADO Ses karıştırıcı
+Icon=ffado-mixer
+MimeType=
+Name[tr_TR]=FFADO Mixer
+Name=FFADO Mixer
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

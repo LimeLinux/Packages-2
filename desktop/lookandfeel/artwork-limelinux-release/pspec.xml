@@ -4,7 +4,7 @@
 <PISI>
     <Source>
         <Name>artwork-limelinux-release</Name>
-        <Homepage>http://www.limelinux.org/</Homepage>
+        <Homepage>http://www.limelinux.com/</Homepage>
         <Packager>
             <Name>Lime GNU/LINUX Community</Name>
             <Email>admin@limelinux.com</Email>
@@ -15,10 +15,10 @@
         <License>CCPL-Attribution-ShareAlike-3.0</License> <!-- Dude_-_march_2013 -->
         <License>CCPL-Attribution-3.0</License> <!-- linus.mp4 -->
         <IsA>data</IsA>
-        <Summary>Artwork for Pisi Linux releases</Summary>
-        <Description>This package contains additional artwork (like wallpapers) intended for Pisi Linux releases.</Description>
-        <Archive sha1sum="8956f17212e10dc7d3d4513c9f7c144e2b3cd621" type="tarxz">http://source.limelinux.org/1.0/artwork-limelinux-release-1.2.tar.xz</Archive>
-        <Archive sha1sum="7d1de4a52a0a11ba18277277679902263f6fc736" type="tarxz">http://source.limelinux.org/1.0/sample-files-20130323.tar.xz</Archive>
+        <Summary>Artwork for Lime Linux releases</Summary>
+        <Description>This package contains additional artwork (like wallpapers) intended for Lime Linux releases.</Description>
+        <Archive sha1sum="8956f17212e10dc7d3d4513c9f7c144e2b3cd621" type="tarxz">http://source.limelinux.com/1.0/artwork-limelinux-release-1.2.tar.xz</Archive>
+        <Archive sha1sum="7d1de4a52a0a11ba18277277679902263f6fc736" type="tarxz">http://source.limelinux.com/1.0/sample-files-20130323.tar.xz</Archive>
     </Source>
 
     <Package>
@@ -30,7 +30,7 @@
 
     <Package>
         <Name>example-content</Name>
-        <Summary>Example files for Pisi Linux</Summary>
+        <Summary>Example files for Lime Linux</Summary>
         <Files>
             <Path fileType="data" permanent="true">/usr/share/example-content</Path>
             <Path fileType="data">/etc/X11/Xsession.d</Path>
