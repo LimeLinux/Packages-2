@@ -11,12 +11,17 @@ from pisi.actionsapi import shelltools
 from pisi.actionsapi import get
 
 def setup():
-    autotools.configure()
+    autotools.configure("--prefix=/usr \
+                         --sysconfdir=/etc \
+                         --libexecdir=/usr/lib/${_pkgbase} \
+                         --enable-polkit \
+                         --enable-ipv6 \
+                          --disable-static")
 
 def build():
     autotools.make()
 
 def install():
-    autotools.rawInstall("DESTDIR=%s" % get.installDIR())
-
+    autotools.install()
+    
     pisitools.dodoc("AUTHORS", "ChangeLog", "COPYING", "NEWS", "README")

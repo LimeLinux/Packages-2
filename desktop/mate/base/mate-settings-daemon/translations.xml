@@ -7,7 +7,7 @@
     </Source>
 
     <Package>
-        <Name>mate-settings-daemon-devel</Name>
+        <Name>mate-settings-daemon</Name>
         <Summary xml:lang="tr">mate-settings-daemon için geliştirme dosyaları</Summary>
     </Package>
 </PISI>
