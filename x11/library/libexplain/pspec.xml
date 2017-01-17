@@ -24,6 +24,9 @@
             <Dependency>groff</Dependency>
             <Dependency>ghostscript-devel</Dependency>
         </BuildDependencies>
+        <Patches>
+            <Patch level="1">parse_bits.patch</Patch>
+        </Patches>
     </Source>
 
     <Package>
