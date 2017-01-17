@@ -14,7 +14,7 @@
         <IsA>library</IsA>
         <Summary>C extensions for the Python</Summary>
         <Description>Cython is a language that makes writing C extensions for the Python language as easy as Python itself.</Description>
-        <Archive sha1sum="a837efb73c195585ce6e27cf53e3587285ccd39f" type="targz">https://pypi.python.org/packages/c6/fe/97319581905de40f1be7015a0ea1bd336a756f6249914b148a17eefa75dc/Cython-0.24.1.tar.gz</Archive>
+        <Archive sha1sum="a837efb73c195585ce6e27cf53e3587285ccd39f" type="targz">https://surce.limelinux.com/1.0/Cython-0.24.1.tar.gz</Archive>
     </Source>
 
     <Package>
