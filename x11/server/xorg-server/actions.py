@@ -43,8 +43,8 @@ def setup():
                          --with-pic \
                          --without-dtrace \
                          --with-int10=x86emu \
-                         --with-os-name=\"limelinux\" \
-                         --with-os-vendor=\"Pisi GNU/Linux Community\" \
+                         --with-os-name=\"LimeLinux\" \
+                         --with-os-vendor=\"Lime GNU/Linux Community\" \
                          --with-builderstring=\"Package: %s\" \
                          --with-fontrootdir=/usr/share/fonts \
                          --with-default-font-path=catalogue:/etc/X11/fontpath.d,built-ins \
